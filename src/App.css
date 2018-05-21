@@ -1,0 +1,51 @@
+.App {
+  text-align: left;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.article-card {
+  margin :10px;
+  width: 50%
+}
+
+.card-title {
+  margin: 10px;
+  font-weight: bold
+}
+
+.card-image {
+  margin : 10px 10px 0px 10px;
+}
+
+.user-card {
+  margin: 10px;
+  width: 20%;
+  display: inline-table
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+
+
